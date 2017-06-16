@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "LineageOS/android_hardware_samsung",
+    "repository": "AOSPExtended-gts210vewifi/android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "cm-14.1"
+    "branch": "7.x"
   },
   {
     "remote": "github",
