@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_kernel_samsung_msm8976",
+    "target_path": "kernel/samsung/msm8976",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "branch": "cm-14.1"
+  }
+]
